@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;BookJSP_DAO/WebContent/BookPojo.jsp&apos; to &apos;book_info.jsp&apos;" description="Rename resource &apos;BookPojo.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/BookPojo.jsp" name="book_info.jsp" stamp="1640774516257" updateReferences="true"/>
+</session>
